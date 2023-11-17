@@ -2,7 +2,7 @@ import asyncio, random, string, json
 from discord.ext import commands, tasks
 import re
 
-TOKEN = "MTE3MTY2NTgyNDc4MDY2MDgwNw.GEaSy9.XYsAidc0KnnfCYRH29ZmJFo82GPUXywTyNuuf4"
+TOKEN = "Put_Your_Token_Here"
 
 CAPTCHA_CHANNEL_id = 1175086658320859268 #put here captcha alert channel id 
 
