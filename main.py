@@ -4,7 +4,7 @@ import re
 
 TOKEN = "Put_Your_Token_Here"
 
-CAPTCHA_CHANNEL_id = 1175086658320859268 #put here captcha alert channel id 
+CAPTCHA_CHANNEL_id = 1234567890 #put_here_captcha_alert_channel_id 
 
 with open('pokemon', 'r', encoding='utf8') as file: 
     pokemon_list = file.read()
